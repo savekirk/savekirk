@@ -1,21 +1,23 @@
 # Kirk Agbenyegah
 
-I’m a hands-on software engineer based in Nairobi, Kenya. I build products across Android, Flutter, iOS, and backend services, with a lot of recent work in media-heavy apps, short-form video, and AI-supported product features.
+I’m a hands-on software engineer. I build products across mobile (native and cross platform) and backend services, with a lot of recent work in media-heavy apps, short-form video, and AI-supported product features.
 
-Previously, I was CTO at SafeBoda, where I joined as an early engineer, helped ship the first MVP with a three-person team, and later hired and led an engineering organization of 30+ people across 18 countries as the platform scaled to more than one million users.
+> [!NOTE]
+> I’m currently open to new opportunities. If you’re hiring for senior mobile, full-stack, or startup engineering roles, feel free to reach out. 
+> [View resume here](https://dela.dev/pdf/Kirk-Agbenyegah-resume.pdf)
 
 ## What I work on
 
-- Android, Kotlin, Java
+- Android, Jetpack Compose, Kotlin
 - Flutter, Dart
 - iOS, Swift, SwiftUI
-- Backend systems in Python/Django, Elixir/Phoenix, PHP/Laravel, and Java
+- Backend systems in Python, Elixir, and Kotlin
 - Media playback, offline recording, video processing, export, and performance-sensitive UX
-- Startup execution, architecture, and technical leadership
+- Currently learning and building products and tools with Rust and Go.
 
 ## Career highlights
 
-- **Groovetime**: leading mobile engineering for an AI-powered movement-learning product, including a short-form video feed, pose extraction workflows, and video processing/export flows.
+- **Groovetime**: lead mobile engineering for an AI-powered movement-learning product, including a short-form video feed, pose extraction workflows, and video processing/export flows.
 - **Stanley X**: migrated a legacy Android app to a modern Kotlin-based architecture and helped restore regular releases.
 - **PingPong / Grain**: built video and audio delivery tools, owned offline recording work across platforms, and worked on Elixir/Phoenix and Python backend systems.
 - **Ivazu**: co-founded and built an e-commerce startup across backend, web, and mobile with Django, React, Flutter, Redis, PostgreSQL, Terraform, and AWS.
@@ -35,7 +37,7 @@ Previously, I was CTO at SafeBoda, where I joined as an early engineer, helped s
 - Mobile media tooling and export pipelines
 - Cross-platform product engineering with native depth
 - AI-assisted product features that solve real user problems
-- Developer tooling in Kotlin and Dart
+- Developer tooling
 
 ## Elsewhere
 
