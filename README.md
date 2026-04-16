@@ -27,6 +27,7 @@ I’m a hands-on software engineer. I build products across mobile (native and c
 
 - [Mailroom](https://github.com/savekirk/mailroom): Kotlin email composition and delivery library for server-side applications.
 - [pkl-dart](https://github.com/savekirk/pkl-dart): Dart bindings for Apple’s Pkl configuration language.
+- [Session Bridge](https://github.com/savekirk/session-bridge): unofficial VS Code extension for browsing Entire checkpoints and committed sessions from the current repository.
 - [Android Media Lab](https://github.com/savekirk/android-media-lab): sandbox for Android media experiments and prototyping.
 - [Exercism App](https://github.com/apps-fab/exercism-app): SwiftUI desktop app contribution.
 - [dela.dev](https://dela.dev): writing and notes on software, product work, and engineering.
